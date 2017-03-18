@@ -6,7 +6,7 @@ published: true
 
 Triết lý đánh chứng của Canslim, là **chỉ quan tâm tới các mã cổ phiếu tốt nhất, mạnh nhất,khỏe nhất**, do vậy trong phiên giao dịch, không quan tâm các mã cổ phiếu giảm giá, chỉ theo dõi các **mã cổ phiếu tăng giá tốt+ thanh khoản tốt+ xu hướng uptrend**
 
-![overview.png]({{site.baseurl}}/images/overview.png)
+![Overview]({{site.baseurl}}/images/overview.png)
 
 
 Bảng tổng hợp là lọc ra các mã cp đạt tiêu chí này:
@@ -18,12 +18,12 @@ Từ các mã khỏe này, chúng ta sẽ lọc để tìm ra các cơ hội đ�
 
 Khi thấy bảng báo các điểm mua này, chúng ta ngay lập tức xem đồ thị của cổ phiếu, bằng cách nháy vào biểu tượng đồ thị: 
 
-![alt text](/images/sample_symbol.png "Mã ví dụ")
+![Mã ví dụ]({{site.baseurl}}/images/sample_symbol.png)
 
 Hoặc nháy vào ký tự tên mã cổ phiếu nằm ở giữa 2 cột báo mua
 
-![alt text](/images/diemmua.png "Điểm mua")
+![Điểm mua]({{site.baseurl}}/images/diemmua.png)
 
 Sẽ ra chart như sau:
 
-![alt text](/images/chart.png "Điểm mua")
+![Chart]({{site.baseurl}}/images/chart.png)
