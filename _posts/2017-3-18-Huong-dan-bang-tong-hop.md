@@ -30,10 +30,10 @@ Sẽ ra chart như sau:
 
 Chúng ta phải xem phiên báo mua phải là:
 
-    A. Phiên đầu tiên tăng break lên với KL lớn hơn bình quân 30 ngày>=30%, trước đó có ít nhất 3-5 phiên lình xình sideway tăng không quá mạnh, Nếu đã là phiên thứ 2 tăng thì bỏ qua, **cố gắng quan sát mua đúng phiên đầu tiên thì lợi thế về giá, và an toàn cao hơn hẳn.**
+    1. Phiên đầu tiên tăng break lên với KL lớn hơn bình quân 30 ngày>=30%, trước đó có ít nhất 3-5 phiên lình xình sideway tăng không quá mạnh, Nếu đã là phiên thứ 2 tăng thì bỏ qua, **cố gắng quan sát mua đúng phiên đầu tiên thì lợi thế về giá, và an toàn cao hơn hẳn.**
 
 ![Chart]({{site.baseurl}}/images/chart2.png)
 
-B. nếu cp break tăng lên nhưng gặp vùng nhiều kháng cự thì cũng bỏ qua, 
+2. nếu cp break tăng lên nhưng gặp vùng nhiều kháng cự thì cũng bỏ qua, 
 
 
