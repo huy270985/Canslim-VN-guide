@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: Bảng giá Canslim
 permalink: /about/
 ---
 
