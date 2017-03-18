@@ -3,7 +3,7 @@ layout: post
 title: Hướng dẫn sử dụng bảng tổng hợp canslim.vn
 ---
 
-![alt text](/images/overview.png "Bảng tổng hợp")
+![alt text](../images/overview.png "Bảng tổng hợp")
 
 Triết lý đánh chứng của Canslim, là **chỉ quan tâm tới các mã cổ phiếu tốt nhất, mạnh nhất,khỏe nhất**, do vậy trong phiên giao dịch, không quan tâm các mã cổ phiếu giảm giá, chỉ theo dõi các **mã cổ phiếu tăng giá tốt+ thanh khoản tốt+ xu hướng uptrend**
 
