@@ -80,3 +80,5 @@ Danh mục của ta cũng vậy, mã cp nào tốt, tích cực, chính là nh�
 MẠNH DẠN LÊN, CẢ TRANG TRẠI HOA THƠM QUẢ NGỌT ĐANG CHỜ BẠN, CHỈ CẦN GIỮ VỮNG **PHƯƠNG PHÁP**, GIỮ VỮNG **NIỀM TIN**, GIỮ VỮNG **KỶ LUẬT**, CHẮC CHẮN BẠN SẼ TRỞ NÊN GIÀU CÓ, THÀNH CÔNG NHƯ CÁC HUYỀN THOẠI CHỨNG KHOÁN TRÊN THẾ GIỚI  NHƯ ONEIL, DARVAS, LIVERMORE, BARUCH...
 
 Nhà đầu tư nổi tiếng Bernard Baruch đã từng nói: “Thậm chí bạn chỉ đúng ba hay bốn lần trong số 10 lần cũng có thể mang lại cho bạn cả một gia tài nếu bạn có linh cảm để có thể cắt giảm những thua lỗ một cách nhanh chóng.”
+
+[Xem thêm về điểm mua chuẩn]({% post_url 2017-3-17-Mot-so-vi-du-ve-diem-mua-chuan %})

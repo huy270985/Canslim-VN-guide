@@ -1,3 +1,9 @@
+---
+layout: post
+title: Một số ví dụ về điểm mua chuẩn
+published: true
+---
+
 Một số hình ảnh của **ĐIỂM MUA CHUẨN CANSLIM.VN**
 
 ![Điểm mua chuẩn 01]({{site.baseurl}}/images/diemmuachuan1.png)
