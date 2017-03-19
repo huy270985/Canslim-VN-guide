@@ -68,4 +68,15 @@ Cp có tăng nhẹ, lình xình, lãi nhẹ hoặc lỗ nhẹ không đáng kể
 Tại sao cp mới chỉ giảm >5% đã bán???
 
 Vì mục tiêu của điểm mua là: **MUA XONG PHẢI TĂNG MẠNH LIÊN TIẾP NHIỀU PHIÊN!!!** (ĐIỂM NỔ CHUẨN), chứ không phải mua xong, cp cứ lình xình ziczac điều chỉnh, hoặc lên chậm chạp, do vậy nếu mua xong cp không chạy, không có lãi, là điểm mua có vấn đề, gọi là ĐIỂM NỔ XỊT
-Mà đã xịt thì cứ bán, tìm cơ hội khác tốt hơn, chỉ cần 1 cơ hội đúng ĐIỂM NỔ CHUẨN lãi 15-20% trở lên, thì thừa sức bù đắp các lần mua nhầm ĐIỂM NỔ XỊT
+Mà đã xịt thì cứ bán, tìm cơ hội khác tốt hơn, chỉ cần 1 cơ hội đúng ĐIỂM NỔ CHUẨN lãi 15-20% trở lên, thì thừa sức bù đắp các lần mua nhầm ĐIỂM NỔ XỊT.
+
+
+Chúng ta sẽ liên tục theo dõi danh mục, và luôn có xu hướng : XÉN CỎ, TĂNG HOA
+Tức là giống khi chăm sóc 1 vườn hoa, ta luôn cắt tỉa cỏ dại, và tăng thêm hoa tươi, 
+
+Danh mục của ta cũng vậy, mã cp nào tốt, tích cực, chính là những bông hoa, ta phải luôn giữ, và thậm chí mua thêm khi đạt các ĐIỂM MUA CHUẨN tiếp, còn **các mã cp về bị YẾU, GIẢM, LỖ...chính là cỏ dại**, và ta phải thay thế chúng, bằng các hạt mầm Hoa khác, liên tục để cho danh mục của chúng ta là những mã tốt nhất, khỏe nhất tại mọi thời điểm
+
+
+MẠNH DẠN LÊN, CẢ TRANG TRẠI HOA THƠM QUẢ NGỌT ĐANG CHỜ BẠN, CHỈ CẦN GIỮ VỮNG **PHƯƠNG PHÁP**, GIỮ VỮNG **NIỀM TIN**, GIỮ VỮNG **KỶ LUẬT**, CHẮC CHẮN BẠN SẼ TRỞ NÊN GIÀU CÓ, THÀNH CÔNG NHƯ CÁC HUYỀN THOẠI CHỨNG KHOÁN TRÊN THẾ GIỚI  NHƯ ONEIL, DARVAS, LIVERMORE, BARUCH...
+
+Nhà đầu tư nổi tiếng Bernard Baruch đã từng nói: “Thậm chí bạn chỉ đúng ba hay bốn lần trong số 10 lần cũng có thể mang lại cho bạn cả một gia tài nếu bạn có linh cảm để có thể cắt giảm những thua lỗ một cách nhanh chóng.”
