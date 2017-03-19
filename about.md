@@ -9,7 +9,7 @@ permalink: /about/
 | Đóng 1 tháng | Đóng 3 tháng | Đóng 6 tháng | Đóng 12 tháng |
 |---|---|---|---|
 | 1.5 triệu đồng/tháng | 1,2 triệu đồng/tháng | 1 triệu đồng/tháng | 1 triệu đồng/tháng |
-| 1 tháng sử dụng | 3 tháng sử dụng | 6 tháng sử dụng | 14 tháng sử dụng
+| 1 tháng sử dụng | 3 tháng sử dụng | 6 tháng sử dụng | 14 tháng sử dụng |
 
 So với **giá 2-2,5tr/ tháng của các bên khác** mà chỉ chuyên về chỉ báo kỹ thuật thì phí sử dụng bảng giá siêu cổ phiếu để có **thông tin đầy đủ cả cơ bản, dòng tiền, kỹ thuật, tư vấn, được hướng dẫn cách đầu tư chứng khoán khoa học hiệu quả...** là một giá quá hấp dẫn về những giá trị nhận được.
 
